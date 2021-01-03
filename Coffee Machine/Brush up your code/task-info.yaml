@@ -252,6 +252,12 @@ files:
     if __name__ == '__main__':
         CoffeeMachineTest('machine.coffee_machine').run_tests()
   learner_created: false
+- name: machine/Turtle.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/371/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 03 Jan 2021 21:50:22 UTC
 record: -1
